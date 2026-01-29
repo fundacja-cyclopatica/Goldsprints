@@ -1,0 +1,5 @@
+{
+  "name": "Gold Sprint Pro & AI Commentator",
+  "description": "Profesjonalna aplikacja do wyścigów Gold Sprint z symulatorem klawiaturowym oraz komentarzem sportowym generowanym przez AI (Gemini). Aplikacja obsługuje dwóch graczy i generuje podsumowania wyścigów.",
+  "requestFramePermissions": []
+}
